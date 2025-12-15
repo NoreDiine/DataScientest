@@ -37,6 +37,8 @@ try:
 
 
     # 3. INTERACTION : CLIQUER SUR LE BOUTON
+    # 3. INTERACTION : CLIQUER SUR LE BOUTON
+    # 3. INTERACTION : CLIQUER SUR LE BOUTON
     time.sleep(2)
 
     loginBtn.click()
